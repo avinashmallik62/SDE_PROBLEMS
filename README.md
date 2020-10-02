@@ -1,2 +1,2 @@
 # SDE_PROBLEMS
-This repo consists of famous algorithmic problems asked in SDE interviews.
+This repository consists of famous algorithmic problems topic-wise asked in SDE interviews.
